@@ -1,0 +1,12 @@
+➜  sl gcc 1.c -o 1-out
+➜  sl ./out
+Привет, мир!
+Символ: A, Целое число: 42, Десятичное число: 2.71828
+Значение переменной float: 1.2345
+350
+Значения: символ: S, число: 87, число с плавающей точкой: 35.24, число с двойной точностью: 97.508
+Переменная является истинной: true
+Lorem ipsum dolor sit amet,
+Consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt,
+Ut labore et dolore magna aliqua.
